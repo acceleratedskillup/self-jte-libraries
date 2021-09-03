@@ -1,3 +1,3 @@
-void call(){
+void call(def config){
   println "customlib build()"
 }
